@@ -1,0 +1,7 @@
+version: 1.6.0
+files:
+  - url: https://github.com/grdzzz/b2-first-trainer/releases/download/v1.6.0/B2-First-Trainer-Windows-Setup.exe
+    sha512: JQEwJ/EnTY1vkWh7vdXBr7sSsxXaVS1Tm2Loo50qO9i2AQUR02IWG7mFoqMREtjGr9CAx9SeqLPYaFUjuxjD8Q==
+path: https://github.com/grdzzz/b2-first-trainer/releases/download/v1.6.0/B2-First-Trainer-Windows-Setup.exe
+sha512: JQEwJ/EnTY1vkWh7vdXBr7sSsxXaVS1Tm2Loo50qO9i2AQUR02IWG7mFoqMREtjGr9CAx9SeqLPYaFUjuxjD8Q==
+releaseDate: '2026-11-21T17:16:45.508Z'
